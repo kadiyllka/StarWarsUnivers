@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "63d366ad-4480-4a87-a9ab-872b847707d8": {
+      "ProjectGuid": "63d366ad-4480-4a87-a9ab-872b847707d8",
+      "DisplayName": "StarWarsUniverse",
+      "ColorIndex": 0
+    },
+    "0a25a1e2-c761-48e4-a482-a02b7ef091f7": {
+      "ProjectGuid": "0a25a1e2-c761-48e4-a482-a02b7ef091f7",
+      "DisplayName": "StartWarsTestProject",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
